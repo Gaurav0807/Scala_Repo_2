@@ -21,6 +21,9 @@ object oops5 extends App{
   var p3 = p1.copy()
   println(p3)
    
+   //App in scala is helper class which have the main method so we can extend our class from App
+  
+  
   
   
 }
